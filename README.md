@@ -49,7 +49,7 @@
 <!--  <a href="https://instagram.com/_Aryagithubk" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Aryagithubk" />
  </a>  -->
- <a href="https://drive.google.com/file/d/1a6ilJC2-Z7zPlAfT-zQFi4DgqKQRogps/view?usp=sharing" target="_blank">
+ <a href="https://drive.google.com/file/d/1s_fYQkelyH4jPJtIryHVeJR03n3jw89P/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-20BEFF?&style=for-the-badge&logo=Resume&logoColor=white" alt="Resume"  />
   </a> 
 </p>
