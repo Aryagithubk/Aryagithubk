@@ -16,8 +16,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Aryagithubk&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -25,10 +23,9 @@
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
-    <a href="https://prince-tripathi.netlify.app">「 Google Me 」</a>
+    <a href="https://krisha-arya.netlify.app">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>India</b> 」
     <br>
@@ -37,10 +34,10 @@
 </p>
 
 <p align="center">
- <a href="https://prince-tripathi.netlify.app" target="blank">
+ <a href="[https://krisha-arya-portfolio.netlify.app/](https://krisha-arya-portfolio.netlify.app/)" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Aryagithubk" />
  </a>
- <a href="https://www.linkedin.com/in/prince-tripathi-96920b224" target="_blank">
+ <a href="https://www.linkedin.com/in/krisha-arya-96920b224" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aryagithubk"/>
  </a>
  <!-- <a href="https://dev.to/Aryagithubk" target="_blank">
@@ -59,14 +56,15 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
+
+# About me
+
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: princetripathi093@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: aryasanya55@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Aryagithubk/Aryagithubk/issues)
 
 </p>
@@ -83,7 +81,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -99,7 +97,8 @@
 
 <br/>
 
-## Repos: 
+## Repos:
+
 <p align="left">
   <a href="https://github.com/Aryagithubk?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -126,5 +125,4 @@
   <br/>
 </a>
 
-
-![Krisha Arya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryagithubk&custom_title=Prince%20Tripathi%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Krisha Arya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryagithubk&custom_title=Krisha%20Arya%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
