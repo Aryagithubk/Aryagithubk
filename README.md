@@ -25,7 +25,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://krisha-arya.netlify.app">「 Google Me 」</a>
+    <a href="https://krisha-arya-portfolio.netlify.app">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>India</b> 」
     <br>
@@ -34,10 +34,10 @@
 </p>
 
 <p align="center">
- <a href="[https://krisha-arya-portfolio.netlify.app/](https://krisha-arya-portfolio.netlify.app/)" target="blank">
+ <a href="https://krisha-arya-portfolio.netlify.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Aryagithubk" />
  </a>
- <a href="https://www.linkedin.com/in/krisha-arya-96920b224" target="_blank">
+ <a href="https://www.linkedin.com/in/krisha-arya" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aryagithubk"/>
  </a>
  <!-- <a href="https://dev.to/Aryagithubk" target="_blank">
