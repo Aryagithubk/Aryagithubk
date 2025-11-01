@@ -42,13 +42,13 @@
  </a>
  <!-- <a href="https://dev.to/Aryagithubk" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Aryagithubk" />
- </a> -->
-<!--  <a href="https://twitter.com/_Aryagithubk" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a> -->
-<!--  <a href="https://instagram.com/_Aryagithubk" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Aryagithubk" />
  </a>  -->
+<!-- <a href="https://twitter.com/_Aryagithubk" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a> 
+ <a href="https://instagram.com/_Aryagithubk" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Aryagithubk" />
+ </a>   -->
  
 </p>
 <br />
@@ -62,8 +62,10 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 💬 &emsp; I also love <b>writing about DevOps and technology</b> — explore my blogs and share your thoughts <a href="https://dev.to/krisha_arya_55" target="_blank">here</a> 💡<br/><br/>
  📧 &emsp; Reach me anytime: aryasanya55@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Aryagithubk/Aryagithubk/issues)
+
 
 </p>
 
