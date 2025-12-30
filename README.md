@@ -20,37 +20,36 @@
 <h1 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://Aryagithubk.com">Krisha Arya</a></b>
+          <b> I am a full stack web application developer from India.</b>
         </samp>
 </h1>
 
-<p align="center"> 
-  <samp>
-    <a href="https://krisha-arya-portfolio.netlify.app">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>India</b> 」
-    <br>
-    <br>
-  </samp>
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/krisha-arya" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="Krisha Arya LinkedIn"
+    />
+  </a>
+
+  <!-- Blog -->
+  <a href="https://dev.to/Aryagithubk" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" 
+      alt="Krisha Arya Blog"
+    />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://my-portfolio-website-rust-phi.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Krisha Arya Portfolio"
+    />
+  </a>
 </p>
 
-<p align="center">
-<!--  <a href="https://krisha-arya-portfolio.netlify.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Aryagithubk" />
- </a> -->
- <a href="https://www.linkedin.com/in/krisha-arya" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aryagithubk"/>
- </a>
- <!-- <a href="https://dev.to/Aryagithubk" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Aryagithubk" />
- </a>  -->
-<!-- <a href="https://twitter.com/_Aryagithubk" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a> 
- <a href="https://instagram.com/_Aryagithubk" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Aryagithubk" />
- </a>   -->
- 
-</p>
 <br />
 
 <!-- About Section -->
@@ -60,11 +59,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- <h1>💬 &emsp; I also love <b>writing about DevOps and technology</b> — explore my blogs and share your thoughts <a href="https://dev.to/krisha_arya_55" target="_blank">here</a> 💡<br/><br/></h1>
- 📧 &emsp; Reach me anytime: aryasanya55@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Aryagithubk/Aryagithubk/issues)
+ <h2>✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/></h2>
+ <h2>❤️ &emsp; Love to writing code and learning new features<br/><br></h2>
+ <h2>📧 &emsp; Reach me anytime: aryasanya55@gmail.com<br/><br/></h2>
+ <h2>💬 &emsp; Ask me about anything [here](https://github.com/Aryagithubk/Aryagithubk/issues)</h2>
 
 
 </p>
