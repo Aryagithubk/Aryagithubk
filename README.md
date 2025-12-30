@@ -17,12 +17,12 @@
 </a>
 
 <!-- Intro  -->
-<h1 align="center">
+<h1> align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Aryagithubk.com">Krisha Arya.</a></b><br>
-          <b> I am a full stack web application developer from India.</b>
+                <b><a target="_blank" href="https://Aryagithubk.com">Krisha Arya.</a></b><br></h1>
         </samp>
-</h1>
+         <h3> <b> I am a full stack web application developer from India.</b></h3>
+        
 
 <p align="center">
   <!-- LinkedIn -->
@@ -36,10 +36,11 @@
   <!-- Blog -->
 <a href="https://dev.to/Aryagithubk" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Blog-DEV.to-14b8a6?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0f766e" 
+    src="https://img.shields.io/badge/Blog-DEV.to-8b5cf6?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=6d28d9" 
     alt="Krisha Arya Blog"
   />
 </a>
+
 
   <!-- Portfolio -->
   <a href="https://my-portfolio-website-rust-phi.vercel.app/" target="_blank">
@@ -59,10 +60,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- <h2>✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/></h2>
- <h2>❤️ &emsp; Love to writing code and learning new features<br/><br></h2>
- <h2>📧 &emsp; Reach me anytime: aryasanya55@gmail.com<br/><br/></h2>
- <h2>💬 &emsp; Ask me about anything [here](https://github.com/Aryagithubk/Aryagithubk/issues)</h2>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br>
+ 📧 &emsp; Reach me anytime: aryasanya55@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Aryagithubk/Aryagithubk/issues)
 
 
 </p>
