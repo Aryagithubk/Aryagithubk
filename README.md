@@ -43,7 +43,7 @@
   </a>
 
   <!-- Blog -->
-<a href="https://dev.to/Aryagithubk" target="_blank">
+<a href="https://dev.to/krisha_arya_55" target="_blank">
   <img 
     src="https://img.shields.io/badge/My%20Blog-8b5cf6?style=for-the-badge&logo=dev.to&logoColor=white" 
     alt="My Blog"
