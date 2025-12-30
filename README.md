@@ -19,7 +19,7 @@
 <!-- Intro  -->
 <h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Aryagithubk.com">Krisha Arya</a></b>
+                <b><a target="_blank" href="https://Aryagithubk.com">Krisha Arya.</a></b><br>
           <b> I am a full stack web application developer from India.</b>
         </samp>
 </h1>
@@ -34,12 +34,12 @@
   </a>
 
   <!-- Blog -->
-  <a href="https://dev.to/Aryagithubk" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" 
-      alt="Krisha Arya Blog"
-    />
-  </a>
+<a href="https://dev.to/Aryagithubk" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Blog-DEV.to-14b8a6?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0f766e" 
+    alt="Krisha Arya Blog"
+  />
+</a>
 
   <!-- Portfolio -->
   <a href="https://my-portfolio-website-rust-phi.vercel.app/" target="_blank">
