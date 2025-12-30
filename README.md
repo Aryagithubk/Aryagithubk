@@ -17,12 +17,21 @@
 </a>
 
 <!-- Intro  -->
-<h1> align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Aryagithubk.com">Krisha Arya.</a></b><br></h1>
-        </samp>
-         <h3> <b> I am a full stack web application developer from India.</b></h3>
-        
+<h1 align="center">
+  <samp>
+    &gt; Hey There!, I am 
+    <b>
+      <a href="https://Aryagithubk.com" target="_blank" style="text-decoration:none;">
+        Krisha Arya
+      </a>
+    </b>
+  </samp>
+</h1>
+
+<h3 align="center">
+  <b>Full Stack Web Application Developer from India 🇮🇳</b>
+</h3>
+
 
 <p align="center">
   <!-- LinkedIn -->
