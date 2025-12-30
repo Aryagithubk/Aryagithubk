@@ -17,11 +17,11 @@
 </a>
 
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://Aryagithubk.com">Krisha Arya</a></b>
         </samp>
-</h3>
+</h1>
 
 <p align="center"> 
   <samp>
@@ -62,7 +62,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 💬 &emsp; I also love <b>writing about DevOps and technology</b> — explore my blogs and share your thoughts <a href="https://dev.to/krisha_arya_55" target="_blank">here</a> 💡<br/><br/>
+ <h1>💬 &emsp; I also love <b>writing about DevOps and technology</b> — explore my blogs and share your thoughts <a href="https://dev.to/krisha_arya_55" target="_blank">here</a> 💡<br/><br/></h1>
  📧 &emsp; Reach me anytime: aryasanya55@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Aryagithubk/Aryagithubk/issues)
 
